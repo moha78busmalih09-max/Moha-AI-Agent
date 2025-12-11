@@ -1,0 +1,12 @@
+{
+  "name": "moha_ai_bot",
+  "version": "1.0.0",
+  "description": "My AI Agent",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
